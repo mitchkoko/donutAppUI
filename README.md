@@ -1,16 +1,5 @@
-# donut_tutorial
+# DONUT APP UI x FLUTTER
 
-A new Flutter project.
+Watch tutorial here: https://youtu.be/OmYL-VK75-o
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![C5E56510-2D14-497E-AEA4-0FEE846B1D2A](https://user-images.githubusercontent.com/29016489/199864218-ba310524-251f-4d33-b8b3-3a5bbfaa907c.JPG)
